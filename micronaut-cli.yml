@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: jib.example
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
